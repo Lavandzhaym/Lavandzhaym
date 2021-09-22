@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lavandzhaym
 - 👀 I’m interested in data security and since
-- 🌱 I’m currently learning python and data 
+- 🌱 I’m currently learning python and data security 
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me idk too xd
 
